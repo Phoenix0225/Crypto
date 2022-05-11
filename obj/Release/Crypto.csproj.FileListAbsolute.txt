@@ -1,0 +1,10 @@
+D:\1- Projets Logiciels\Crypto\bin\Release\Crypto.exe.config
+D:\1- Projets Logiciels\Crypto\bin\Release\Crypto.exe
+D:\1- Projets Logiciels\Crypto\bin\Release\Crypto.pdb
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.Crypto.resources
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.Properties.Resources.resources
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.csproj.GenerateResource.cache
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.csproj.CoreCompileInputs.cache
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.exe
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.pdb
+D:\1- Projets Logiciels\Crypto\obj\Release\Crypto.csprojAssemblyReference.cache
